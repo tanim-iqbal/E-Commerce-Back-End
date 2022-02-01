@@ -11,6 +11,10 @@ This is a backend database for an e-commerce site. You should be able to go thro
 4. Seed the database
 5. Select * and go through the directory
 
+# Video Demo Link
+
+https://drive.google.com/drive/folders/1mEr0BLPAfQzJCpztd-UskPSkULrIvDll?usp=sharing
+
 # Github
 
 https://github.com/tanim-iqbal
