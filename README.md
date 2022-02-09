@@ -1,2 +1,24 @@
 # E-Commerce-Back-End
-E commerce back end
+
+This is a backend database for an e-commerce site. You should be able to go through your inventory and add or delete inventory as needed.
+
+
+# Installation 
+
+1. Clone repo
+2. Log into MySQL (mysql -u root -p)
+3. Source db/schema.sql
+4. Seed the database
+5. Select * and go through the directory
+
+# Video Demo Link
+
+https://drive.google.com/drive/folders/1mEr0BLPAfQzJCpztd-UskPSkULrIvDll?usp=sharing
+
+# Github
+
+https://github.com/tanim-iqbal
+
+# Contact
+
+tanim.iqbal13@gmail.com
