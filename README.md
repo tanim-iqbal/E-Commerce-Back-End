@@ -13,7 +13,7 @@ This is a backend database for an e-commerce site. You should be able to go thro
 
 # Video Demo Link
 
-https://drive.google.com/drive/folders/1mEr0BLPAfQzJCpztd-UskPSkULrIvDll?usp=sharing
+https://watch.screencastify.com/v/fxBcJKcGindhVRI8d347
 
 # Github
 
